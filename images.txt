@@ -1,3 +1,4 @@
+--platform=linux/arm64/v8 node:16.15.0
 bitnami/kafka
 provectuslabs/kafka-ui
 bitnami/zookeeper:3.9
