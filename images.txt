@@ -3,3 +3,4 @@ bitnami/kafka
 provectuslabs/kafka-ui
 bitnami/zookeeper:3.9
 bitnami/kafka:3.4
+sheepkiller/kafka-manager
