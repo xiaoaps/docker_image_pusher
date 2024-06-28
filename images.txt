@@ -1,1 +1,2 @@
---platform=linux/arm64 node:20.15-alpine
+#--platform=linux/arm64 node:20.15-alpine
+node:20.15-alpine
