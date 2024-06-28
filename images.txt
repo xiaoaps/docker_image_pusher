@@ -1,2 +1,1 @@
-#--platform=linux/arm64/v8 node:16.15.0
-minio/minio
+--platform=linux/arm64/v8 node:20.15-alpine
