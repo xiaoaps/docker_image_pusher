@@ -1,1 +1,2 @@
---platform=linux/arm64 mysql:lts
+#--platform=linux/arm64 mysql:lts
+niruix/sshwifty:latest
