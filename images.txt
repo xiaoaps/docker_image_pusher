@@ -1,2 +1,2 @@
 #--platform=linux/arm64 mysql:lts
-snowdreamtech/frpc:0.59.0
+snowdreamtech/frps:0.59.0
