@@ -1,4 +1,1 @@
 #--platform=linux/arm64 mysql:lts
-coturn/coturn
-netbirdio/management:latest
-netbirdio/signal:latest
