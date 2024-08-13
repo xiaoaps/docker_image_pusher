@@ -1,2 +1,2 @@
 #--platform=linux/arm64 mysql:lts
-snowdreamtech/frps:0.59.0
+netbirdio/dashboard:latest
