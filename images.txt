@@ -1,2 +1,2 @@
 #--platform=linux/arm64 mysql:lts
-thingsboard/tb-postgres
+node:20.9.0-alpine
