@@ -1,4 +1,2 @@
 #--platform=linux/arm64 mysql:lts
-redis:7.4
-rabbitmq:4.0-alpine
 mysql:lts
