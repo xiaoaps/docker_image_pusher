@@ -1,2 +1,2 @@
 #--platform=linux/arm64 mysql:lts
-mysql:8.0.26
+emqx/emqx
