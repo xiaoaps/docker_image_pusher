@@ -1,2 +1,9 @@
 #--platform=linux/arm64 mysql:lts
-timonwong/prometheus-webhook-dingtalk
+# PLG
+grafana/loki:latest
+grafana/alloy:latest
+minio/minio
+grafana/grafana:latest
+grafana/loki:latest
+nginx:latest
+mingrammer/flog
