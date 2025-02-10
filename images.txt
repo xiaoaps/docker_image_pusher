@@ -1,9 +1,2 @@
 #--platform=linux/arm64 mysql:lts
-# PLG
-grafana/loki:latest
-grafana/alloy:latest
-minio/minio
-grafana/grafana:latest
-grafana/loki:latest
-nginx:latest
-mingrammer/flog
+thingsboard/tb-postgres:3.9.0
