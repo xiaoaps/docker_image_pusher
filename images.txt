@@ -1,3 +1,1 @@
-#--platform=linux/arm64 node:14.17.0
-#mysql:lts
-minio/minio
+--platform=linux/arm64 minio/minio
