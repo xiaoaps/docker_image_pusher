@@ -12,7 +12,7 @@
 docker login --username=xiaoaps@qq.com registry.cn-hangzhou.aliyuncs.com
 
 2. 从Registry中拉取镜像
-$ docker pull registry.cn-hangzhou.aliyuncs.com/github-image-pusher/prometheus-webhook-dingtalk:[镜像版本号]
+- $ docker pull registry.cn-hangzhou.aliyuncs.com/github-image-pusher/prometheus-webhook-dingtalk:[镜像版本号]
 
 ## 使用方式
 
