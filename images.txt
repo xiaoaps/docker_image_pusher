@@ -1,1 +1,2 @@
---platform=linux/arm64 minio/minio
+# --platform=linux/arm64 minio/minio
+timonwong/prometheus-webhook-dingtalk:latest
