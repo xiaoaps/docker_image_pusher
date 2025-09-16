@@ -1,2 +1,3 @@
 # --platform=linux/arm64 minio/minio
-timonwong/prometheus-webhook-dingtalk:latest
+--plaform=linux/arm64 apache/doris.fe-ubuntu:3.0.1
+--plaform=linux/arm64 apache/doris.be-ubuntu:3.0.1
