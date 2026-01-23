@@ -1,2 +1,2 @@
 # --platform=linux/arm64 minio/minio
-dperson/openvpn-client:latest
+python:3.12-slim-bookworm
