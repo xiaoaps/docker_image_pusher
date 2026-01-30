@@ -2,3 +2,4 @@
 easzlab/kubeasz:3.6.8
 easzlab/kubeasz-sys-pkg:1.0.4_ubuntu_22
 easzlab/kubeasz-sys-pkg:1.0.4_ubuntu_24
+easzlab/kubeasz-k8s-bin:v1.34.3
