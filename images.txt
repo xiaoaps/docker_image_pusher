@@ -1,2 +1,4 @@
 # --platform=linux/arm64 minio/minio
 easzlab/kubeasz:3.6.8
+easzlab/kubeasz-sys-pkg:1.0.4_ubuntu_22
+easzlab/kubeasz-sys-pkg:1.0.4_ubuntu_24
