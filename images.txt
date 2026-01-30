@@ -1,2 +1,2 @@
 # --platform=linux/arm64 minio/minio
-python:3.12-slim-bookworm
+kubeasz:3.6.8
