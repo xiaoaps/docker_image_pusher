@@ -1,2 +1,2 @@
 # --platform=linux/arm64 minio/minio
-kubeasz:3.6.8
+easzlab/kubeasz:3.6.8
