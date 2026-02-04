@@ -39,3 +39,9 @@ quay.io/jetstack/cert-manager-controller:v1.16.1
 quay.io/jetstack/cert-manager-webhook:v1.16.1
 quay.io/oauth2-proxy/oauth2-proxy:v7.13.0
 registry.k8s.io/jobset/jobset:v0.10.1
+gcr.io/knative-releases/knative.dev/net-istio/cmd/controller@sha256:aa1ea5d272d84
+gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook@sha256:f4901094d958b
+gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:9f688a704a952
+gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:137f711499115
+gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:b32cb6b92e9fe
+gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:be71409730945
